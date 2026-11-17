@@ -190,8 +190,7 @@ function Hero() {
           </div>
           <div className="overflow-hidden rounded-[30px] border-[7px] border-white bg-white shadow-2xl shadow-blue-950/15">
             <img
-              src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1100&q=85"
-              alt="Graduates celebrating their learning journey"
+              src="/images/hero-learning.jpg" alt="Graduates celebrating their learning journey"
               className="h-[360px] w-full object-cover sm:h-[445px]"
             />
             <div className="absolute bottom-5 right-5 left-5 rounded-2xl border border-white/70 bg-white/95 p-5 shadow-xl backdrop-blur sm:bottom-7 sm:right-7 sm:left-auto sm:w-[260px]">
@@ -289,8 +288,7 @@ function About() {
         <div className="relative order-2 md:order-1">
           <div className="absolute -left-7 -top-7 h-36 w-36 rounded-full bg-blue-100" />
           <img
-            src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1100&q=85"
-            alt="Learners collaborating around a table"
+            src="/images/learners-collaborating.jpg" alt="Learners collaborating around a table"
             className="relative z-10 h-[360px] w-full rounded-[28px] object-cover shadow-xl shadow-blue-950/10 sm:h-[430px]"
           />
           <div className="absolute -bottom-6 -right-4 z-20 rounded-2xl bg-white p-5 shadow-xl shadow-slate-900/10 sm:right-6">
